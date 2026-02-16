@@ -14,9 +14,9 @@ This is a small shipping calculator app. It allows users to calculate shipping c
 ## Installation
 
 Clone the repository, move to the root folder:
-cd test-task
-And then run:
-docker compose up --build
+`cd test-task`
+and then run:
+`docker compose up --build`
 
 To open frontend on your browser:
 http://localhost:5173
